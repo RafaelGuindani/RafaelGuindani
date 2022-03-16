@@ -33,4 +33,6 @@ Realizando cursos de RPA, Robotic Process Automation e Python🐍.
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelGuindani&" alt="RafaelGuindani" /></p>
 </br>
-![Snake animation](https://github.com/rafaelguindani/rafaelguindani/blob/output/github-contribution-grid-snake.svg)
+<div>
+  ![Snake animation](https://github.com/rafaelguindani/rafaelguindani/blob/output/github-contribution-grid-snake.svg)
+</div>
