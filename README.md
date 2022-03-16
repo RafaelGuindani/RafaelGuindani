@@ -1,6 +1,6 @@
 ### Olá! Eu sou Rafael Guindani. 👋
-Estou me desenvolvendo na area de inteligência artificial, implementando robôs e buscando cada dia mais o crescimento e investimento na parte de automação de processos.
-Realizando cursos de RPA, Robotic Process Automation e Python🐍. 
+Estou me desenvolvendo na area de inteligência artificial, automação AWS e Cisco e buscando cada dia mais o crescimento e investimento na parte de automação de processos.
+Realizando cursos de RPA (Robotic Process Automation) e Python🐍. 
 
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
