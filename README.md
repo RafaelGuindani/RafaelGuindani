@@ -16,7 +16,7 @@ Realizando cursos de RPA, Robotic Process Automation e Python🐍.
 <a href="https://www.linkedin.com/in/rafael-guindani-198113119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </details>
  
-  ![Snake animation](https://github.com/rafaelguindani/rafaelguindani/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>  
 </br>
@@ -29,6 +29,8 @@ Realizando cursos de RPA, Robotic Process Automation e Python🐍.
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RafaelGuindani&label=Profile%20views&color=0e75b6&style=flat" alt="RafaelGuindani" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelGuindani&show_icons=true&locale=en" alt="RafaelGuindani" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelGuindani&show_icons=true&locale=en" alt="RafaelGuindani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelGuindani&" alt="RafaelGuindani" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelGuindani&" alt="RafaelGuindani" /></p>
+</br>
+![Snake animation](https://github.com/rafaelguindani/rafaelguindani/blob/output/github-contribution-grid-snake.svg)
