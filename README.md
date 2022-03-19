@@ -5,8 +5,10 @@ Realizando cursos de RPA (Robotic Process Automation) e Python🐍.
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
   <br/>
-<img align="center" alt="Rafa-Js" height="30" width="30" src="https://play-lh.googleusercontent.com/swjV4_QK7DMpiQpn2uGt4L4Iz8IQaKc1lIoLKDvnqGiEm1UKwIukhhV8f_VYayZ8yyc=s180-rw">
-<img align="center" alt=" - " height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt=" UIpath " height="30" width="30" src="https://play-lh.googleusercontent.com/swjV4_QK7DMpiQpn2uGt4L4Iz8IQaKc1lIoLKDvnqGiEm1UKwIukhhV8f_VYayZ8yyc=s180-rw">
+<img align="center" alt=" Automation Edge " height="30" width="30" src="https://images.g2crowd.com/uploads/product/hd_favicon/1547632215/automationedge.svg">
+<img align="center" alt=" Automation Anywhere " height="30" width="30" src="https://www.ibizsoftinc.com/images/svg/automation-anywhere.svg">
+<img align="center" alt=" Python " height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </details>
 </br>
 
