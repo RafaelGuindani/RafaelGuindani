@@ -43,5 +43,5 @@ Realizando cursos de RPA (Robotic Process Automation) e Python🐍.
 </div>
 <div>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.paypal.com/invoice/p/#X86VH3Z5GMLTY32P"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="" /></a></p><br></br>  
+<p><a href="https://nubank.com.br/pagar/6lai4/syo9YAj0zV" height="50" width="210" alt="" /></a></p><br></br>  
 </div>  
