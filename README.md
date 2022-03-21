@@ -43,5 +43,6 @@ Realizando cursos de RPA (Robotic Process Automation) e Python🐍.
 </div>
 <div>
 <h3 align="left">Support:</h3>
-<a href='https://nubank.com.br/pagar/6lai4/syo9YAj0zV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>  
+<a href='https://nubank.com.br/pagar/6lai4/syo9YAj0zV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Suporte para um café ou a comprar um curso na Udemy' /></a>  
 </div>  
+
