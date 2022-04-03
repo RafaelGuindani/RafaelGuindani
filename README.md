@@ -1,4 +1,5 @@
 ### Olá! Eu sou Rafael Guindani. 👋
+<p>o seu sonho é alimentado pela sua atenção</p>
 Estou me desenvolvendo na area de inteligência artificial, automação AWS e Cisco e buscando cada dia mais o crescimento e investimento na parte de automação de processos.
 Realizando cursos de RPA (Robotic Process Automation) e Python🐍.
 <br>
