@@ -1,4 +1,6 @@
 ### Olá! Eu sou Rafael Guindani. 👋
+É ótimo ver você! 😀
+
 <h5 align:"center">Estou me desenvolvendo na area de inteligência artificial, automação.</br>
 Realizando cursos de RPA (Robotic Process Automation) e Python🐍.</h5>
 <h5 align:"left">O seu sonho é alimentado pela sua atenção</h5>
