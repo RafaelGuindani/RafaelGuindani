@@ -2,7 +2,13 @@
 É ótimo ver você! 😀
 
 <h5 align:"center">Estou codificando meu futuro na area de inteligência artificial, automação.</br>
-Realizando cursos de RPA (Robotic Process Automation) e Python🐍.</h5>
+Realizando cursos de RPA (Robotic Process Automation) <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/2x/external-rpa-digital-transformation-parzival-1997-flat-parzival-1997.png" alt="Robotic Process Automation" loading="lazy" height="25" width="25">, Python 
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png" alt="Python an interpreted, high-level, general-purpose programming language. icon" loading="lazy" height="20" width="20"> e Ruby <img class="img-responsive loaded" src="https://cdn.emojidex.com/emoji/mdpi/Ruby.png?1465787635" style="">.
+
+
+
+
+
 <h5 align:"left">O seu sonho é alimentado pela sua atenção</h5>
 <h6 align="right">🦅🦅 Deus em primeiro lugar!</h6>
 <details>
