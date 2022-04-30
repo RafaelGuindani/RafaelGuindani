@@ -1,4 +1,4 @@
-### Olá! Eu sou Rafael Guindani. 👋
+### Olá, saudações cafeinadas! Eu sou Rafael Guindani. 👋
 É ótimo ver você! 😀
 
 <h5 align:"center">Estou codificando meu futuro na area de inteligência artificial, automação.</br>
