@@ -15,6 +15,7 @@ Realizando cursos de RPA (Robotic Process Automation) <img src="https://img.icon
 <img align="center" alt=" Automation Anywhere " height="30" width="30" src="https://www.ibizsoftinc.com/images/svg/automation-anywhere.svg">
 <img align="center" alt=" Python " height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt=" Ruby " height="22" width="22" src="https://cdn.emojidex.com/emoji/mdpi/Ruby.png?1465787635">
+<img align="center" alt=" Java " height="50" width="50" src="https://vetores.org/d/java.svg">
 
 </details>
 </br>
@@ -24,6 +25,9 @@ Realizando cursos de RPA (Robotic Process Automation) <img src="https://img.icon
 </br>
 <a href = "mailto:dmndcode@gmail.com; rafaelguindani@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-guindani-198113119/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://contate.me/rafaelguindani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Whatsapp-%230077B?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a> 
+
+
 </details>
  
 </div>  
