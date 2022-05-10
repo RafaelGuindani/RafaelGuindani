@@ -5,8 +5,8 @@
 Realizando cursos de RPA (Robotic Process Automation) <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/2x/external-rpa-digital-transformation-parzival-1997-flat-parzival-1997.png" alt="Robotic Process Automation" loading="lazy" height="25" width="25">, Python 
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png" alt="Python an interpreted, high-level, general-purpose programming language. icon" loading="lazy" height="20" width="20">.
 
-<h5 align:"left">O seu sonho é alimentado pela sua atenção</h5>
-<h6 align="right">🦅🦅 Deus em primeiro lugar!</h6>
+<h5 align:"left">🦅🦅 Deus em primeiro lugar!</h5>
+<h6 align="right"><br><a href="https://docs.google.com/document/d/1bLXkIsngiyGG0Rc3Ughju7vR6gZjmNQr/edit?usp=sharing&ouid=108612184438214472654&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Curr%C3%ADculo-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" target="_blank"></a></br>O seu sonho é alimentado pela sua atenção.</h6>
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
   <br/>
@@ -26,7 +26,6 @@ Realizando cursos de RPA (Robotic Process Automation) <img src="https://img.icon
 <a href = "mailto:dmndcode@gmail.com; rafaelguindani@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-guindani-198113119/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://contate.me/rafaelguindani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Whatsapp-%230077B?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a> 
-
 
 </details>
  
