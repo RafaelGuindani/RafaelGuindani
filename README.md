@@ -1,7 +1,7 @@
 ### Olá, saudações cafeinadas! Eu sou Rafael Guindani. 👋
 É ótimo ver você! 😀
 
-<h5 align:"center">Estou codificando meu futuro na area de inteligência artificial, automação.</br>
+<h5 align:"center">Apaixonado por tecnologia e inspirado para automatizar!</br>
 Realizando cursos de RPA (Robotic Process Automation) <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/2x/external-rpa-digital-transformation-parzival-1997-flat-parzival-1997.png" alt="Robotic Process Automation" loading="lazy" height="25" width="25">, Python 
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png" alt="Python an interpreted, high-level, general-purpose programming language. icon" loading="lazy" height="20" width="20">.
 
